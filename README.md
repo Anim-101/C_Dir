@@ -1,1 +1,1 @@
-My coding experinces and sample pages based on tutorials and projects. Happy Coding - C !!
+My coding experinces based on tutorials and projects. Happy Coding - C !!
