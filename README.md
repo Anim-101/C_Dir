@@ -1,1 +1,1 @@
-My coding experinces based on tutorials and projects. Happy Coding - C !!
+## My coding experinces and code projects' snippets based on tutorials and projects. Happy Coding - C !!
